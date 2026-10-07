@@ -1,0 +1,23 @@
+{
+  "name": "vertex-forward-fde-landing-page",
+  "version": "1.0.0",
+  "description": "Professional landing page for VERTEX FORWARD - Forward Deployed Engineer (FDE) Service",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "serve": "python -m http.server 8080",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "fde",
+    "forward-deployed-engineer",
+    "landing-page",
+    "enterprise-ai",
+    "data-engineering",
+    "agentic-ai",
+    "llm",
+    "rag"
+  ],
+  "author": "VERTEX FORWARD",
+  "license": "MIT"
+}
